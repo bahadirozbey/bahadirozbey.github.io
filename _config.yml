@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Bahadır Ozan Özbey"
   avatar : "/assets/images/profil_resmi.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am Bahadır, 31 y/o who is both an electrical-electronics engineer and electronics technician. My homeland is in Mersin. Voyage is a passion for me"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
