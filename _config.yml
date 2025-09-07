@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Elektronik Otomasyon Yapay Zeka
-email:ozbeybahadirozan@gmail.com
+email: ozbeybahadirozan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I purpose I keep my thing 
+  I purpose with this website to public whatever I find important things in my works
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
