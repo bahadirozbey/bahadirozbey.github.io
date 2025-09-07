@@ -17,8 +17,8 @@ title: Elektronik Otomasyon Yapay Zeka
 email: ozbeybahadirozan@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I purpose with this website to public whatever I find important things in my works
-twitter_username: username
-github_username: username
+twitter_username: bahadirozbey
+github_username: bahadirozbey
 minimal_mistakes_skin: default
 search: true
 
@@ -69,9 +69,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+   # - label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+      #url: "https://instagram.com/" 
 
 footer:
   links:
