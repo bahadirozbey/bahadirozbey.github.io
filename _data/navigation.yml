@@ -3,6 +3,13 @@ main:
     url: /posts/
   - title: "Categories"
     url: /categories/
+    children:
+      - title: "Electronics"
+        url: /categories/electronics/
+      - title: "Industrial Automation"
+        url: /categories/industrial-automation/
+      - title: "AI"
+        url: /categories/ai/
   - title: "Tags"
     url: /tags/
   - title: "About"
